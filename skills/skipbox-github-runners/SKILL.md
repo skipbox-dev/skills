@@ -57,8 +57,12 @@ account that owns the repository:
 - an organization: **Skipbox CI** (an owner installs it)
 - a personal account: **Skipbox (personal)**
 
-The free trial needs no card and starts at the first job, not at install. Skipbox never
-edits or pushes workflows: the `runs-on` change is yours to make in a pull request. Every
+The free trial needs no card and starts at the first job, not at install. The Skipbox CI
+and Skipbox (personal) apps never edit or push workflows: the `runs-on` change is yours to
+make in a pull request. Skipbox opens that pull request itself only when the user presses
+**Open a pull request** on their account's page and installs the separate, optional
+Skipbox Migrate app on that repository; it changes only `runs-on` lines, never pushes to
+the default branch and never merges. Every
 permission each app asks for, and why, is at https://docs.skipbox.dev/permissions.md.
 
 ### 3. Change `runs-on`
