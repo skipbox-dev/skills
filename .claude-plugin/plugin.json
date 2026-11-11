@@ -1,0 +1,5 @@
+{
+  "name": "skipbox",
+  "description": "Move GitHub Actions jobs to Skipbox: cheap, fast runners with unlimited minutes for a flat monthly price",
+  "version": "1.0.0"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "skipbox-skills",
+  "owner": {
+    "name": "Skipbox"
+  },
+  "plugins": [
+    {
+      "name": "skipbox",
+      "source": "./",
+      "description": "Move GitHub Actions jobs to Skipbox: cheap, fast runners with unlimited minutes for a flat monthly price"
+    }
+  ]
+}
