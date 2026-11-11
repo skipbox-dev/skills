@@ -1,5 +1,10 @@
 {
   "name": "skipbox",
+  "displayName": "Skipbox",
+  "version": "1.0.0",
   "description": "Move GitHub Actions jobs to Skipbox: cheap, fast runners with unlimited minutes for a flat monthly price",
-  "version": "1.0.0"
+  "author": { "name": "Fluxenic Inc.", "url": "https://skipbox.dev" },
+  "homepage": "https://skipbox.dev",
+  "repository": "https://github.com/skipbox-dev/skills",
+  "license": "MIT"
 }
