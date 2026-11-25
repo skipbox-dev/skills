@@ -57,7 +57,9 @@ account that owns the repository:
 - an organization: **Skipbox CI** (an owner installs it)
 - a personal account: **Skipbox (personal)**
 
-The free trial needs no card and starts at the first job, not at install. The Skipbox CI
+Then the user starts the 7-day free trial on that account's page at https://skipbox.dev: it
+starts with a card, has no minute cap, and nothing is charged until day 8; cancelling before
+then costs nothing. Jobs run on Skipbox once the trial has started. The Skipbox CI
 and Skipbox (personal) apps never edit or push workflows: the `runs-on` change is yours to
 make in a pull request. Skipbox opens that pull request itself only when the user presses
 **Open a pull request** on their account's page and installs the separate, optional
